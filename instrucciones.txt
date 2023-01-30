@@ -1,11 +1,8 @@
 //GIT HUB
 https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
 
-
-git remote add origin https://github.com/ricklarave/pwLopez_Medina.git
-git branch -M main
-git push -u origin main
-
+//Proyecto de
+https://www.youtube.com/watch?v=lV7mxivGX_I&t=4162s&ab_channel=FaztCode
 
 npm init -y
 
