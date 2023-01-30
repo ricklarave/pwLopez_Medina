@@ -1,7 +1,9 @@
 import { Router } from "express";
 const router = Router()
 
-router.post('/singup')
-router.post('/singin')
+import * as authCtrl from '../controllers/auth.controller'
+
+router.post('/singup', authCtrl.singUp)
+router.post('/singin', authCtrl.singin)
 
 export default router;
